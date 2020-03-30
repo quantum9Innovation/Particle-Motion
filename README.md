@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Particle Motion
+## The key framework for developing easy-to-use, scalable, user-friendly interfaces for particle motion and other simulations.
+From a physicist to an epedimiologist to a molecular scientist (do people really study that suff?), the possibilities for why you'd want to use this framework are endless. But why isn't there a simple, easy-to-use framework for particle motion? Simulating real-world events is hard enough ... let's make it easier!
 
-You can use the [editor on GitHub](https://github.com/quantum9Innovation/Particle-Motion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## View at https://quantum9innovation.github.io
+![Super cool particle simulations from my website (inspired by 3Blue1Brown)](https://i.ibb.co/x7qzvQm/temp.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quantum9Innovation/Particle-Motion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Want to get started?
+Why wouldn't you?! Read the docs and install the latest release ... you'll be a 'whiz' of particle simulations
